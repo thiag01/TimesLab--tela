@@ -1,0 +1,11 @@
+.title-product {
+    text-align: center;
+    margin: 50px;
+  }
+  
+  .title-product .title {
+    color: #1bb0ce;
+  }
+  .title-product .title-sub {
+      text-transform: lowercase;
+  }
